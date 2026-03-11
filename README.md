@@ -1,16 +1,25 @@
-## Hi there 👋
+# Lucas Gabriel Candido
 
-<!--
-**LucasgjCandido/LucasgjCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação focado em Back-End, banco de dados e automação.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL / SQL Server
+* Git / GitHub
+* Automação de processos
+
+## Projetos principais
+
+🔹 Sistema de Gestão de Loja
+Controle de vendas, estoque e relatórios.
+
+🔹 Sistema de Academia
+Cadastro de alunos e gestão de planos.
+
+🔹 Automação de Notas Fiscais
+Leitura de PDF e extração de SKU para planilhas.
+
+## Objetivo
+
+Atuar como Desenvolvedor Back-End ou Analista de Sistemas, criando soluções que automatizem processos e organizem dados.
