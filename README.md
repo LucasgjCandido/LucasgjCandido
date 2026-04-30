@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasgabrielcandido" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasgjcandido/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LucasgjCandido&color=blue&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
