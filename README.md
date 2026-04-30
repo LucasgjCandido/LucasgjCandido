@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Lucas Gabriel Candido 👋</h1>
+<h1 align="center">Lucas Gabriel Candido</h1>
 
 <p align="center">
   <em>Desenvolvedor Back-End | Análise de Dados | Automação de Processos</em>
@@ -13,18 +13,18 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou **desenvolvedor em formação** com foco em **Back-End**, **banco de dados** e **automação de processos**. Tenho experiência prática com Python, JavaScript, SQL Server e na construção de soluções que organizam dados e automatizam fluxos operacionais.
 
-- 🎯 **Objetivo:** Atuar como Desenvolvedor Back-End ou Analista de Sistemas
-- 🌱 **Aprendendo atualmente:** APIs REST, Node.js e Power BI
-- 💡 **Interesses:** Automação de processos, análise de dados e sistemas de gestão
-- 📍 **Localização:** Brasil
+- **Objetivo:** Atuar como Desenvolvedor Back-End ou Analista de Sistemas
+- **Aprendendo atualmente:** APIs REST, Node.js e Power BI
+- **Interesses:** Automação de processos, análise de dados e sistemas de gestão
+- **Localização:** Brasil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -39,18 +39,18 @@ Sou **desenvolvedor em formação** com foco em **Back-End**, **banco de dados**
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🤖 botFinanceiro](https://github.com/LucasgjCandido/botFinanceiro) | Bot para controle e gestão financeira pessoal | JavaScript, Node.js |
-| [📊 data-analysis-ecommerce](https://github.com/LucasgjCandido/data-analysis-ecommerce) | Análise de dados de vendas em e-commerce | Python, Pandas |
-| [📈 powerbi-sales-dashboard](https://github.com/LucasgjCandido/powerbi-sales-dashboard) | Dashboard de vendas interativo no Power BI | Power BI |
-| [🏪 crud-sistema-c](https://github.com/LucasgjCandido/crud-sistema-c) | Sistema CRUD em Linguagem C | C |
+| [botFinanceiro](https://github.com/LucasgjCandido/botFinanceiro) | Bot para controle e gestão financeira pessoal | JavaScript, Node.js |
+| [data-analysis-ecommerce](https://github.com/LucasgjCandido/data-analysis-ecommerce) | Análise de dados de vendas em e-commerce | Python, Pandas |
+| [powerbi-sales-dashboard](https://github.com/LucasgjCandido/powerbi-sales-dashboard) | Dashboard de vendas interativo no Power BI | Power BI |
+| [crud-sistema-c](https://github.com/LucasgjCandido/crud-sistema-c) | Sistema CRUD em Linguagem C | C |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasgjCandido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -60,5 +60,5 @@ Sou **desenvolvedor em formação** com foco em **Back-End**, **banco de dados**
 ---
 
 <p align="center">
-  <em>⭐ Se você gostou de algum projeto, não esqueça de deixar uma estrela!</em>
+  <em>Se você gostou de algum projeto, não esqueça de deixar uma estrela.</em>
 </p>
